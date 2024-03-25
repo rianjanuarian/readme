@@ -1,5 +1,8 @@
 --------Hello i'm Mohammad Rizki Yanuarianto--------
 
-[![Rianjanuarian](https://github-readme-stats.vercel.app/api?username=rianjanuarian&hide=contribs,prs&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rianjanuarian&layout=compact&theme=dracula&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left">
+<a href="https://github.com/rianjanuarian">
+  <img height="175em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rianjanuarian&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="175em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rianjanuaria&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>

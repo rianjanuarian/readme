@@ -1,4 +1,4 @@
---------Hello i'm Mohammad Rizki Yanuarianto--------
+-------- Hello i'm Mohammad Rizki Yanuarianto --------
 
 <p align="left">
 <a href="https://github.com/rianjanuarian">
